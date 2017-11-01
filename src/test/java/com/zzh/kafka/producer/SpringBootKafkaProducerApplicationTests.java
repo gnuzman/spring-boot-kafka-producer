@@ -1,4 +1,4 @@
-package com.zzh.springbootkafkaproducer;
+package com.zzh.kafka.producer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

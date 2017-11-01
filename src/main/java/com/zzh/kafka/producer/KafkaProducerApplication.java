@@ -1,12 +1,12 @@
-package com.zzh.springbootkafkaproducer;
+package com.zzh.kafka.producer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootKafkaProducerApplication {
+public class KafkaProducerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootKafkaProducerApplication.class, args);
+		SpringApplication.run(KafkaProducerApplication.class, args);
 	}
 }
